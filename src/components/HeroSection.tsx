@@ -91,7 +91,7 @@ const HeroSection = () => {
               View Projects
             </button>
             <a
-              href="/cv-calista.pdf"
+              href="/calista-salsabila-cv.pdf"
               download
               className="btn-outline flex items-center gap-2 justify-center text-white border-white hover:bg-white hover:text-purple-600"
             >
