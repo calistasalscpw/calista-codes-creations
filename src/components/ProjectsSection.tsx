@@ -124,10 +124,10 @@ const ProjectsSection = () => {
                         View Code
                       </a>
                     )}
-                    <button className="flex items-center gap-2 px-4 py-2 border border-purple-300 text-purple-600 rounded-lg hover:bg-purple-50 transition-smooth">
+                    {/* <button className="flex items-center gap-2 px-4 py-2 border border-purple-300 text-purple-600 rounded-lg hover:bg-purple-50 transition-smooth">
                       <ExternalLink size={16} />
                       Learn More
-                    </button>
+                    </button> */}
                   </div>
                 </div>
               </div>

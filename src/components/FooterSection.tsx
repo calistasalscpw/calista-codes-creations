@@ -79,7 +79,7 @@ const FooterSection = () => {
                   Citra Putri Winanto
                 </p>
                 <p className="text-gray-300 leading-relaxed max-w-md">
-                  Passionate Informatics student specializing in Machine Learning and UI/UX Design. 
+                  Passionate Informatics fresh-graduate specializing in Machine Learning and UI/UX Design. 
                   Ready to contribute innovative solutions to your next project.
                 </p>
               </div>
@@ -146,7 +146,7 @@ const FooterSection = () => {
                   Get In Touch
                 </a>
                 <a
-                  href="/cv-calista.pdf"
+                  href="/calista-salsabila-cv.pdf"
                   download
                   className="block w-full text-center py-3 px-4 border border-purple-400 text-purple-300 rounded-lg font-semibold hover:bg-purple-500/20 transition-smooth"
                 >
