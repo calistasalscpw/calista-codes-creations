@@ -38,7 +38,7 @@ const AboutSection = () => {
           {/* Content */}
           <div className="space-y-6">
             <p className="text-lg text-muted-foreground leading-relaxed">
-              I'm a final-year <span className="font-semibold text-primary">Informatics student</span> at 
+              I'm a fresh graduate from <span className="font-semibold text-primary">Informatics study program</span> at 
               Universitas Singaperbangsa Karawang with a deep passion for technology, 
               particularly in <span className="font-semibold text-primary">Machine Learning</span> and 
               <span className="font-semibold text-primary"> UI/UX Design</span>.

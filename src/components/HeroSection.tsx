@@ -42,7 +42,7 @@ const HeroSection = () => {
           </h1>
           
           <p className="text-xl md:text-2xl mb-8 text-purple-100 leading-relaxed">
-            Informatics Student with a Passion for 
+            Informatics Fresh-graduate with a Passion for 
             <span className="font-semibold text-white"> Machine Learning</span> and 
             <span className="font-semibold text-white"> UI/UX Design</span>
           </p>
@@ -91,7 +91,7 @@ const HeroSection = () => {
               View Projects
             </button>
             <a
-              href="/cv-calista.pdf"
+              href="/calista-salsabila-cv.pdf"
               download
               className="btn-outline flex items-center gap-2 justify-center text-white border-white hover:bg-white hover:text-purple-600"
             >
